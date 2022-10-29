@@ -1,5 +1,3 @@
-function first(){
-    console.log('Hello World!');
-}
+const a = require('./first');
 
-first();
+console.log(a());
