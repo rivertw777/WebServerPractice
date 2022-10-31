@@ -1,5 +1,5 @@
 function first(){
-    console.log('Hello World!');
+    console.log('First!');
 }
 
 module.exports = first;
